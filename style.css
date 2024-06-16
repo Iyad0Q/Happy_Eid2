@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    background-color: rgb(255, 228, 178);
+}
+
+header h1 {
+    font-size: 45px;
+    color: #4c3434;
+    margin-bottom: 0px;
+}
+
+header h2 {
+    font-size: 35px;
+    color: #c98449;
+    margin-bottom: 40px;
+    margin-top: 10px;
+}
+
+main h2 {
+    font-size: 22px;
+}
+
+main p {
+    font-weight: bold;
+}
+
+main img {
+    height: 135px;
+    cursor: pointer;
+}
+
+main img:active {
+    height: 145px;
+}
+
+.codeBox {
+    width: fit-content;
+    border: 3px solid #c98449;
+    margin: auto;
+    padding: 0 20px;
+    color: #4c3434; 
+    font-weight: bold;
+}
